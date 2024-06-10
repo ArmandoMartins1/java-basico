@@ -1,6 +1,6 @@
 # java-basico
 
-## Aprendendo
+## Aprendendo:
 ### Estruturas de repetição
 ### Condicionais
 ### Exceções
